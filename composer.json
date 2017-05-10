@@ -18,11 +18,11 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/datasift/ms-lib-stone"
+			"url": "https://github.com/adrianz-kainos/ms-lib-stone"
 		}
 	],
 	"require": {
-		"datasift/stone": ">=1.5.0"
+		"datasift/stone": "dev-upgrade-phpunit"
 	},
 	"autoload": {
 		"psr-0": { "" : "src/php/" }
